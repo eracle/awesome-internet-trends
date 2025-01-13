@@ -17,7 +17,6 @@
 - [TikTok Discover](https://www.tiktok.com/discover) - View trending hashtags and content from TikTok.
 - [Instagram Explore](https://www.instagram.com/explore/) - Trending content and popular posts on Instagram.
 - [YouTube Trending](https://www.youtube.com/feed/trending) - Explore trending videos and topics on YouTube.
-- [Hootsuite](https://blog.hootsuite.com/social-media-analytics-tools/) - Offers comprehensive social media analytics to track performance across various platforms.
 - [Sprout Social](https://sproutsocial.com/insights/social-media-monitoring-tools/) - Provides tools for social media monitoring and analytics to help brands understand their audience.
 - [Brandwatch](https://www.brandwatch.com/) - Delivers consumer intelligence and social media analytics for in-depth brand analysis.
 
