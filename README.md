@@ -19,7 +19,6 @@
 - [YouTube Trending](https://www.youtube.com/feed/trending) - Explore trending videos and topics on YouTube.
 
 ## General Trend Analytics
-- [TrendWatching](https://www.trendwatching.com/) - Insights into consumer trends and market analysis.
 - [Exploding Topics](https://explodingtopics.com/) - Discover emerging topics before they go mainstream.
 - [Nexalytics](https://nexalytics.com/) - AI-powered platform for finding trending topics and analyzing them.
 - [Social Blade](https://socialblade.com/) - Real-time social media stats and analytics for creators and influencers.
