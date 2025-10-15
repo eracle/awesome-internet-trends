@@ -10,6 +10,9 @@
 
 ---
 
+## Open-source projects:
+- [Github Trends](https://github.com/trending)
+  
 ## Social Media Trends
 - [Google Trends](https://trends.google.com/) - Explore trending searches and topics from Google in real-time. **Free and open to access.**
 - [Twitter Trending Topics](https://x.com/i/trends) - Check out what’s trending globally or locally on Twitter. **Free and open to access.**
