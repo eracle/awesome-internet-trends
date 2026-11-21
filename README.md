@@ -24,6 +24,7 @@
 ## General Trend Analytics
 - [Exploding Topics](https://explodingtopics.com/) - Discover emerging topics before they go mainstream. **Free and open to access.**
 - [Social Blade](https://socialblade.com/) - Real-time social media stats and analytics for creators and influencers. **Free and open to access.**
+- [seodata.dev](https://seodata.dev) - Google search volume, CPC and competition for 50+ countries, to compare demand across countries and spot rising topics. **Free and open to access.**
 
 ---
 
