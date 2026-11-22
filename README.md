@@ -22,12 +22,12 @@
 - [Instagram Explore](https://www.instagram.com/explore/) - Trending content and popular posts on Instagram. **Free and open to access.**
 - [YouTube Trending](https://www.youtube.com/feed/trending) - Explore trending videos and topics on YouTube. **Free and open to access.**
 - [twtData Twitter (X) Trends](https://twtdata.com/twitter-trends/) - Top Twitter (X) topics and hashtags worldwide, updated every hour, with how many locations each one trends in. **Free and open to access.**
-- [TKMetrics TikTok Trends](https://tkmetrics.com/trends/) - TikTok hashtag trends and creator stats from public TikTok data, with the method behind every number. **Free and open to access.**
+- [TKMetrics TikTok Trends](https://tkmetrics.com/trends/) - Currently trending TikTok videos and popular hashtags with view counts, from public TikTok data. **Free and open to access.**
 
 ## General Trend Analytics
 - [Exploding Topics](https://explodingtopics.com/) - Discover emerging topics before they go mainstream. **Free and open to access.**
 - [Social Blade](https://socialblade.com/) - Real-time social media stats and analytics for creators and influencers. **Free and open to access.**
-- [seodata.dev](https://seodata.dev) - Google search volume, CPC and competition for 50+ countries, to compare demand across countries and spot rising topics. **Free and open to access.**
+- [seodata.dev](https://seodata.dev) - Current Google search volume and related keywords for 50+ countries, to compare demand across countries (20 free lookups a day without an account). **Free and open to access.**
 
 ---
 
