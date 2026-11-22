@@ -21,6 +21,8 @@
 - [TikTok Discover](https://www.tiktok.com/discover) - View trending hashtags and content from TikTok. **Free and open to access.**
 - [Instagram Explore](https://www.instagram.com/explore/) - Trending content and popular posts on Instagram. **Free and open to access.**
 - [YouTube Trending](https://www.youtube.com/feed/trending) - Explore trending videos and topics on YouTube. **Free and open to access.**
+- [twtData Twitter (X) Trends](https://twtdata.com/twitter-trends/) - Top Twitter (X) topics and hashtags worldwide, updated every hour, with how many locations each one trends in. **Free and open to access.**
+- [TKMetrics TikTok Trends](https://tkmetrics.com/trends/) - TikTok hashtag trends and creator stats from public TikTok data, with the method behind every number. **Free and open to access.**
 
 ## General Trend Analytics
 - [Exploding Topics](https://explodingtopics.com/) - Discover emerging topics before they go mainstream. **Free and open to access.**
