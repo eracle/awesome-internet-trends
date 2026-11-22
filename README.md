@@ -3,6 +3,7 @@
 > A curated list of the best **free and open-access** resources to track and discover the latest trends from the internet, focused on social media and general analytics.
 
 ## Contents
+- [Open-source Projects](#open-source-projects)
 - [Social Media Trends](#social-media-trends)
 - [General Trend Analytics](#general-trend-analytics)
 - [Contributing](#contributing)
@@ -10,9 +11,9 @@
 
 ---
 
-## Open-source projects:
-- [Github Trends](https://github.com/trending)
-  
+## Open-source Projects
+- [GitHub Trending](https://github.com/trending) - See the repositories and developers the GitHub community is most excited about today. **Free and open to access.**
+
 ## Social Media Trends
 - [Google Trends](https://trends.google.com/) - Explore trending searches and topics from Google in real-time. **Free and open to access.**
 - [Twitter Trending Topics](https://x.com/i/trends) - Check out what’s trending globally or locally on Twitter. **Free and open to access.**
@@ -29,4 +30,9 @@
 
 ## Contributing
 Contributions are welcome!  
-If you have a favorite resource for tracking social media or general trends, feel free to create a pull request. Check out the [con
+If you have a favorite resource for tracking social media or general trends, feel free to create a pull request. Check out the [contribution guidelines](CONTRIBUTING.md) for more details.
+
+---
+
+## License
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
